@@ -1,6 +1,6 @@
 # Como executar o projeto
 
-##Pre requisito
+## Pre requisito
 	- Docker
 	- Docker Compose
 	- .NET 3.1 instalado
